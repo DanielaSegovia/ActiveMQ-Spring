@@ -1,0 +1,10 @@
+com\myweb\api\service\PersonaService.class
+com\myweb\api\facade\impl\PersonaServiceFacadeImpl.class
+com\myweb\api\service\impl\PersonaServiceImpl.class
+com\myweb\api\model\Persona.class
+com\myweb\api\facade\PersonaServiceFacade.class
+com\myweb\api\config\config.class
+com\myweb\api\jms\PersonaSender.class
+com\myweb\api\repository\PersonaRepository.class
+com\myweb\api\ApiApplication.class
+com\myweb\api\controllers\HomeController.class
